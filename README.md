@@ -17,16 +17,15 @@
 
 #### :computer: Programming languages:
 
-- Typescript
-- Javascript
-- SQL
+- React/Angular/Vue/Next
+- Node/Express
 - Python
-- PHP
-- ruby
+- PHP/Laravel
+- Ruby/RubyonRails
 - C++/C#
 - Mysql
 - Mongodb
-- Django
+- Django/Flask
 
 #
 <div align="center">
