@@ -13,7 +13,7 @@
 - Vue
 - All Apis(payment api, google api and stripe ....)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=devin300team&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 #### :computer: Programming languages:
 
@@ -55,7 +55,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/glistenstar?style=flat-square&color=black&logo=github">
   </a>
    -->
-   <img src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+   <img src="https://github-profile-trophy.vercel.app/?username=dev300team&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
