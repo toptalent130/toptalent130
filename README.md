@@ -30,8 +30,8 @@ My team, **NK** consist several countries's and so we use English for our commun
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlistenSTAR&layout=compact&theme=vue" style="min-width:800px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devin300team&count_private=true&show_icons=true&hide_title=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devin300team&layout=compact&theme=vue" style="min-width:800px"/>
 </p>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -50,8 +50,6 @@ My team, **NK** consist several countries's and so we use English for our commun
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
 <i>Loved the project? Please consider [donating](https://paypal.me/devin300team) to help it improve!</i>
 
