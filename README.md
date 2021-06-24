@@ -1,13 +1,10 @@
 
 # 
 <div align="center">
-   <h1>Hello! I am Full Stack Developer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>❤️Hello!❤️ I am Full Stack Developer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
    <!-- <h2>I just started work.</h2> -->
 </div>
- 
-#### :heart: I'm passionate about:
 
-❤️❤️❤️Hello!
 As an experienced, widely professional programmer❤️, looking for difficult long-term tasks.
 I have been working in these fields for 8+ years. ❤️I have developed a wide range web development projects.
 
@@ -21,6 +18,7 @@ Experience:
 - AWS/Azure/Docker/Kubermetes
 
 ***** Most Important *****
+
 My goal is to give you back your project within your right time and to work in a way where clients will be "SATISFIED" of my work.
 
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
