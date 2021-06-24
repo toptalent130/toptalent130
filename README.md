@@ -7,9 +7,21 @@
  
 #### :heart: I'm passionate about:
 
-I am a web developer. As a full stack developer, my main programming language is Javascript, PHP, Python. I also have good experience with Angular, Vue, React. ❤️ Particular React is my ❤️ framework. And I have rich experenice on React Framework.
-As I said framwork, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. I have a team. I am charge of P.M.
-My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It's start of competition.
+❤️❤️❤️Hello!
+As an experienced, widely professional programmer❤️, looking for difficult long-term tasks.
+I have been working in these fields for 8+ years. ❤️I have developed a wide range web development projects.
+
+Experience:
+- Html/Css3/Saas/Bootstrap/Jquery/Tailwindcss
+- React/Angular/Next/Vue/Node
+- PHP/Laravel
+- Django/Flask/Jupyter/Ipynb
+- Ruby on Rails
+- Mysql/PostgreSql/MongoDB
+- AWS/Azure/Docker/Kubermetes
+
+***** Most Important *****
+My goal is to give you back your project within your right time and to work in a way where clients will be "SATISFIED" of my work.
 
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
