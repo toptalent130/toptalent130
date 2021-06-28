@@ -41,8 +41,8 @@ My goal is to give you back your project within your right time and to work in a
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devin300team&count_private=true&show_icons=true&hide_title=true" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devin300team&layout=compact&theme=vue" style="min-width:800px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=toptalent130&count_private=true&show_icons=true&hide_title=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toptalent130&layout=compact&theme=vue" style="min-width:800px"/>
 </p>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -62,33 +62,33 @@ My goal is to give you back your project within your right time and to work in a
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/devin300team) to help it improve!</i>
+<i>Loved the project? Please consider [donating](https://paypal.me/toptalent130) to help it improve!</i>
 
 </div>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-toptalent130@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:toptalent130@gmail.com)](mailto:toptalent130@gmail.com)
 [![Outlook main Badge](https://img.shields.io/badge/-toptalent130@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:toptalent130@gmail.com)](mailto:toptalent130@gmail.com)
-<img align="right" src="https://komarev.com/ghpvc/?username=devin300team"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=toptalent130"/>
 
 <br> 
 
 
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/devin300team/devin300team?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/toptalent130/toptalent130?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/devin300team?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/toptalent130?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/devin300team?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/toptalent130?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/devin300team?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/toptalent130?style=flat-square&color=black&logo=github">
   </a>
    -->
-   <img src="https://github-profile-trophy.vercel.app/?username=devin300team&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+   <img src="https://github-profile-trophy.vercel.app/?username=toptalent130&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
